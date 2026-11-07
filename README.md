@@ -13,12 +13,12 @@
 
 </div>
 
-**MilkFrog** · Java 后端 & AI Agent。做能扛住深挖追问的面试项目，也分享 Agent 与后端的最新技术。
+**MilkFrog** · Java 后端 & AI Agent。只做高级面试项目，也分享 Agent 与后端的最新技术。
 
 ## 项目
 
-- **ModelGate** —— 企业级 LLM 网关：双协议接入、计量计费、限流隔离、全链路审计、多实例缓存一致性。2000 并发秒杀压测 0 超发。
+- **ModelGate** —— 企业级 LLM 网关：双协议接入、计量计费、限流隔离、全链路审计、多实例缓存一致性。顶级兑换码秒杀系统，崩溃自恢复。
 
 ## 在哪找我
 
-![小红书](https://img.shields.io/badge/小红书-程序员奶蛙-E8503A?style=flat-square&labelColor=1B1B1B)
+![小红书](https://img.shields.io/badge/小红书-程序员奶蛙-E8503A?style=for-the-badge&labelColor=1B1B1B)
