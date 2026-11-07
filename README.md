@@ -21,4 +21,4 @@
 
 ## 在哪找我
 
-![小红书](https://img.shields.io/badge/小红书-程序员奶蛙-E8503A?style=for-the-badge&labelColor=1B1B1B)
+- 小红书：**程序员奶蛙**
