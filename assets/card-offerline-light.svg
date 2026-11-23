@@ -1,14 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="204" viewBox="0 0 420 204" role="img" aria-label="offerline - 个人求职进度、只读邮箱日程与面经工作台">
-  <rect x="0.5" y="0.5" width="413" height="203" rx="16" fill="#FFFFFF" stroke="#DCE2E9" stroke-width="1"/>
-  <text x="24" y="36" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="18.5" font-weight="700" letter-spacing="-0.2" fill="#14181F">offerline</text>
-  <rect x="110" y="20" width="76" height="21" rx="6" fill="#EAF2E8"/>
-  <text x="148" y="34" text-anchor="middle" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" fill="#3A6832">求职工作台</text>
-  <g transform="translate(374.00,22.00) scale(0.66667)" fill="none" stroke="#6B7280" stroke-width="1.95" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="206" viewBox="0 0 420 206" role="img" aria-label="offerline - 个人求职进度、只读邮箱日程与面经工作台">
+  <rect x="0.5" y="0.5" width="413" height="205" rx="16" fill="#FFFFFF" stroke="#DCE2E9" stroke-width="1"/>
+  <g transform="translate(24.00,18.00) scale(0.40625)"><rect width="64" height="64" rx="16" fill="#0F172A"/><rect x="13" y="17" width="38" height="30" rx="7" fill="none" stroke="#FFFFFF" stroke-width="3.4"/><path d="M22 29H42M22 37H33.5" fill="none" stroke="#FFFFFF" stroke-width="3.4" stroke-linecap="round"/><circle cx="40.8" cy="37" r="3" fill="#3B82F6"/></g>
+  <text x="58" y="37" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="17.5" font-weight="700" letter-spacing="-0.2" fill="#14181F">offerline</text>
+  <rect x="140" y="21" width="76" height="21" rx="6" fill="#EAF2E8"/>
+  <text x="178" y="35" text-anchor="middle" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" fill="#3A6832">求职工作台</text>
+  <g transform="translate(374.00,23.00) scale(0.66667)" fill="none" stroke="#6B7280" stroke-width="1.95" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></g>
 
-  <text x="24" y="61" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#14181F">面试记录工具那么多，不如选择用一个丝滑、美观、克制的工具。</text>
-  <text x="24" y="80" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#4B5563">支持多岗位时间线管理、只读邮箱监听、日程同步与面经记录。</text>
+  <text x="24" y="63" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#14181F">面试记录工具那么多，不如选择用一个丝滑、美观、克制的工具。</text>
+  <text x="24" y="82" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#4B5563">支持多岗位时间线管理、只读邮箱监听、日程同步与面经记录。</text>
 
-  <g transform="translate(24,96)">
+  <g transform="translate(24,98)">
   <rect x="0" y="0" width="366" height="86" rx="10" fill="#F4F7F4" stroke="#DCE5DC" stroke-width="1"/>
   <rect x="12" y="12" width="20" height="20" rx="5.5" fill="#181C20"/>
   <g transform="translate(16.00,16.00) scale(0.50000)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 20V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/><rect width="20" height="14" x="2" y="6" rx="2"/></g>
