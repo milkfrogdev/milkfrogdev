@@ -23,13 +23,13 @@
     <text x="24" y="65" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="13" fill="#B1BAC4">GitHub 分享开源项目，小红书分享简历项目。</text>
     <text x="24" y="85" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="13" fill="#B1BAC4">涵盖后端和 Agent，拒绝烂大街和同质化项目。</text>
 
-    <rect x="24" y="108" width="166" height="44" rx="9" fill="#19231B"/>
+    <rect x="24" y="108" width="160" height="44" rx="9" fill="#19231B"/>
     <text x="36" y="125" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11" fill="#8FB284">开源工具</text>
     <text x="36" y="143" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#F0F6FC">求职台 / 记忆 Skill</text>
 
-    <rect x="200" y="108" width="164" height="44" rx="9" fill="#1B222C"/>
-    <text x="212" y="125" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11" fill="#8FA2B8">面试项目</text>
-    <text x="212" y="143" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#F0F6FC">LLM 网关 ModelGate</text>
+    <rect x="194" y="108" width="170" height="44" rx="9" fill="#1B222C"/>
+    <text x="206" y="125" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11" fill="#8FA2B8">原创面试项目</text>
+    <text x="206" y="143" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="700" fill="#F0F6FC">ModelGate / Cutline</text>
 
     <rect x="374" y="108" width="138" height="44" rx="9" fill="#252116"/>
     <text x="386" y="125" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11" fill="#D4B963">求职交流</text>
