@@ -5,8 +5,8 @@
   <text x="148" y="34" text-anchor="middle" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" fill="#9BC48E">求职工作台</text>
   <g transform="translate(374.00,22.00) scale(0.66667)" fill="none" stroke="#8B949E" stroke-width="1.95" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></g>
 
-  <text x="24" y="61" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="13" fill="#B1BAC4">自己部署的求职进度、只读邮箱日程与面经工作台，</text>
-  <text x="24" y="80" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="13" fill="#B1BAC4">支持端到端加密备份，数据完全留在自己手里。</text>
+  <text x="24" y="61" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="13" fill="#B1BAC4">自托管个人求职工作台，支持多岗位时间线管理、</text>
+  <text x="24" y="80" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="13" fill="#B1BAC4">只读邮箱监听、面试日程同步和面经记录。</text>
 
   <g transform="translate(24,96)">
   <rect x="0" y="0" width="366" height="86" rx="10" fill="#111714" stroke="#243028" stroke-width="1"/>
@@ -28,6 +28,6 @@
   <text x="213" y="59" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="9.5" font-weight="600" fill="#F2D263">二面 14:30</text>
   <text x="354" y="59" text-anchor="end" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="9.5" fill="#647266">Offer</text>
 
-  <text x="12" y="75.5" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="9.5" fill="#8B9A8C">只读 IMAP 解析 &#160;/&#160; AES-256-GCM 加密 &#160;/&#160; 60+ 公司官标</text>
+  <text x="12" y="75.5" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="9.5" fill="#8B9A8C">时间线追踪 &#160;/&#160; 只读邮箱监听 &#160;/&#160; 60+ 公司官标</text>
 </g>
 </svg>
