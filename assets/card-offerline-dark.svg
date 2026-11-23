@@ -5,8 +5,8 @@
   <text x="148" y="34" text-anchor="middle" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" fill="#9BC48E">求职工作台</text>
   <g transform="translate(374.00,22.00) scale(0.66667)" fill="none" stroke="#8B949E" stroke-width="1.95" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></g>
 
-  <text x="24" y="61" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="13" fill="#B1BAC4">自托管个人求职工作台，支持多岗位时间线管理、</text>
-  <text x="24" y="80" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="13" fill="#B1BAC4">只读邮箱监听、面试日程同步和面经记录。</text>
+  <text x="24" y="61" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#F0F6FC">面试记录工具那么多，不如选择用一个丝滑、美观、克制的工具。</text>
+  <text x="24" y="80" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#B1BAC4">支持多岗位时间线管理、只读邮箱监听、日程同步与面经记录。</text>
 
   <g transform="translate(24,96)">
   <rect x="0" y="0" width="366" height="86" rx="10" fill="#111714" stroke="#243028" stroke-width="1"/>
