@@ -7,7 +7,7 @@
     <g transform="translate(374.00,22.00) scale(0.66667)" fill="none" stroke="#8B949E" stroke-width="1.95" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></g>
 
     <text x="24" y="61" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#F0F6FC">让你的 Antigravity 拥有记忆，跨会话记住偏好与项目进展。</text>
-    <text x="24" y="80" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#B1BAC4">针对 Antigravity 的本地双层 Markdown 记忆系统，零第三方依赖。</text>
+    <text x="24" y="80" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#B1BAC4">针对 Antigravity 的本地双层 Markdown 记忆系统，零依赖。</text>
 
     <g transform="translate(24,96)">
   <rect x="0" y="0" width="366" height="86" rx="10" fill="#171510" stroke="#302A1D" stroke-width="1"/>
