@@ -1,64 +1,172 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="178" viewBox="0 0 840 178" role="img" aria-label="MilkFrog 开源主页">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="166" viewBox="0 0 840 166" role="img" aria-label="MilkFrog 开源主页">
   <defs>
     <clipPath id="hero-clip">
-      <rect x="0.5" y="0.5" width="839" height="177" rx="14"/>
+      <rect x="0.5" y="0.5" width="839" height="165" rx="14"/>
     </clipPath>
   </defs>
-  <rect x="0.5" y="0.5" width="839" height="177" rx="14" fill="#161916" stroke="#2C322A" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="839" height="165" rx="14" fill="#161B22" stroke="#2C3440" stroke-width="1"/>
   <g clip-path="url(#hero-clip)">
-    <line x1="532" y1="1" x2="532" y2="177" stroke="#1E221D" stroke-width="1"/>
-    <line x1="560" y1="1" x2="560" y2="177" stroke="#1E221D" stroke-width="1"/>
-    <line x1="588" y1="1" x2="588" y2="177" stroke="#1E221D" stroke-width="1"/>
-    <line x1="616" y1="1" x2="616" y2="177" stroke="#1E221D" stroke-width="1"/>
-    <line x1="644" y1="1" x2="644" y2="177" stroke="#1E221D" stroke-width="1"/>
-    <line x1="672" y1="1" x2="672" y2="177" stroke="#1E221D" stroke-width="1"/>
-    <line x1="700" y1="1" x2="700" y2="177" stroke="#1E221D" stroke-width="1"/>
-    <line x1="728" y1="1" x2="728" y2="177" stroke="#1E221D" stroke-width="1"/>
-    <line x1="756" y1="1" x2="756" y2="177" stroke="#1E221D" stroke-width="1"/>
-    <line x1="784" y1="1" x2="784" y2="177" stroke="#1E221D" stroke-width="1"/>
-    <line x1="812" y1="1" x2="812" y2="177" stroke="#1E221D" stroke-width="1"/>
-    <line x1="532" y1="28" x2="839" y2="28" stroke="#1E221D" stroke-width="1"/>
-    <line x1="532" y1="56" x2="839" y2="56" stroke="#1E221D" stroke-width="1"/>
-    <line x1="532" y1="84" x2="839" y2="84" stroke="#1E221D" stroke-width="1"/>
-    <line x1="532" y1="112" x2="839" y2="112" stroke="#1E221D" stroke-width="1"/>
-    <line x1="532" y1="140" x2="839" y2="140" stroke="#1E221D" stroke-width="1"/>
-    <line x1="532" y1="168" x2="839" y2="168" stroke="#1E221D" stroke-width="1"/>
+    <circle cx="24" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="24" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="24" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="24" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="24" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="24" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="48" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="48" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="48" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="48" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="48" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="48" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="72" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="72" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="72" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="72" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="72" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="72" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="96" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="96" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="96" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="96" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="96" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="96" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="120" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="120" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="120" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="120" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="120" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="120" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="144" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="144" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="144" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="144" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="144" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="144" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="168" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="168" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="168" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="168" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="168" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="168" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="192" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="192" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="192" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="192" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="192" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="192" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="216" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="216" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="216" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="216" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="216" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="216" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="240" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="240" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="240" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="240" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="240" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="240" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="264" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="264" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="264" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="264" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="264" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="264" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="288" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="288" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="288" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="288" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="288" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="288" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="312" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="312" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="312" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="312" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="312" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="312" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="336" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="336" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="336" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="336" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="336" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="336" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="360" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="360" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="360" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="360" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="360" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="360" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="384" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="384" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="384" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="384" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="384" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="384" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="408" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="408" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="408" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="408" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="408" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="408" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="432" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="432" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="432" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="432" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="432" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="432" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="456" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="456" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="456" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="456" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="456" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="456" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="480" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="480" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="480" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="480" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="480" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="480" cy="140" r="0.9" fill="#1E252F"/>
+    <circle cx="504" cy="20" r="0.9" fill="#1E252F"/>
+    <circle cx="504" cy="44" r="0.9" fill="#1E252F"/>
+    <circle cx="504" cy="68" r="0.9" fill="#1E252F"/>
+    <circle cx="504" cy="92" r="0.9" fill="#1E252F"/>
+    <circle cx="504" cy="116" r="0.9" fill="#1E252F"/>
+    <circle cx="504" cy="140" r="0.9" fill="#1E252F"/>
+    <rect x="532" y="0" width="308" height="166" fill="#11161D"/>
+    <line x1="532" y1="0" x2="532" y2="166" stroke="#262E38" stroke-width="1"/>
   </g>
+  <rect x="0.5" y="0.5" width="839" height="165" rx="14" fill="none" stroke="#2C3440" stroke-width="1"/>
 
-  <g transform="translate(28.00,28.00) scale(0.91667)">
-  <rect x="0" y="0" width="48" height="48" rx="12" fill="#232722" stroke="#363C34" stroke-width="1.2"/>
-  <path d="M10 38.5 C10 20.5 15 10 24 10 C33 10 38 20.5 38 38.5 Z" fill="#121412"/>
-  <ellipse cx="24" cy="24.5" rx="10.2" ry="9.2" fill="#E8C95A"/>
-  <circle cx="19.3" cy="22.3" r="3.1" fill="#9AB680"/>
-  <circle cx="28.7" cy="22.3" r="3.1" fill="#9AB680"/>
-  <circle cx="19.3" cy="22.3" r="1.65" fill="#111311"/>
-  <circle cx="28.7" cy="22.3" r="1.65" fill="#111311"/>
-  <path d="M14.3 26.8 Q24 23.6 33.7 26.8 L32.2 33.5 Q24 36.3 15.8 33.5 Z" fill="#121412"/>
-  <path d="M19.9 32.1 L22.0 28.1 L24.0 31.4 L26.0 28.1 L28.1 32.1" fill="none" stroke="#F4F4EE" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(28.00,24.00) scale(0.91667)">
+  <rect x="0" y="0" width="48" height="48" rx="12" fill="#1F242B" stroke="#353C46" stroke-width="1.1"/>
+  <path d="M10 38.5 C10 20.5 15 10 24 10 C33 10 38 20.5 38 38.5 Z" fill="#101215"/>
+  <ellipse cx="24" cy="24.5" rx="10.2" ry="9.2" fill="#F2D263"/>
+  <circle cx="19.3" cy="22.3" r="3.1" fill="#9BB682"/>
+  <circle cx="28.7" cy="22.3" r="3.1" fill="#9BB682"/>
+  <circle cx="19.3" cy="22.3" r="1.65" fill="#101215"/>
+  <circle cx="28.7" cy="22.3" r="1.65" fill="#101215"/>
+  <path d="M14.3 26.8 Q24 23.6 33.7 26.8 L32.2 33.5 Q24 36.3 15.8 33.5 Z" fill="#101215"/>
+  <path d="M19.9 32.1 L22.0 28.1 L24.0 31.4 L26.0 28.1 L28.1 32.1" fill="none" stroke="#FFFFFF" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
 
-  <text x="86" y="54" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.4" fill="#F5F6F1">MilkFrog</text>
-  <rect x="224" y="32" width="84" height="24" rx="6" fill="#20241F" stroke="#30362E" stroke-width="1"/>
-  <text x="266" y="48.5" text-anchor="middle" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="500" fill="#ECCE64">程序员奶蛙</text>
+  <text x="86" y="53" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-0.5" fill="#F0F6FC">MilkFrog</text>
+  <rect x="224" y="31" width="84" height="23" rx="6" fill="#232A34"/>
+  <text x="266" y="46.8" text-anchor="middle" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#F2D263">程序员奶蛙</text>
 
-  <text x="86" y="74" font-family="'JetBrains Mono', 'Cascadia Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8F988B">github.com/milkfrogdev</text>
+  <text x="28" y="96" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="14.5" font-weight="400" fill="#B1BAC4">写一些顺手的开源工具，也做后端与 AI Agent 面试项目</text>
 
-  <text x="28" y="106" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="14.5" font-weight="400" fill="#CFD5CA">写自己每天在用的开源小工具，也做后端与 AI Agent 工程项目</text>
+  <rect x="28" y="114" width="72" height="26" rx="6" fill="#1E252E" stroke="#303946" stroke-width="1"/><text x="64.0" y="131.5" text-anchor="middle" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="500" fill="#C9D1D9">后端工程</text><rect x="108" y="114" width="74" height="26" rx="6" fill="#1E252E" stroke="#303946" stroke-width="1"/><text x="145.0" y="131.5" text-anchor="middle" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="500" fill="#C9D1D9">AI Agent</text>
 
-  <rect x="28" y="124" width="72" height="26" rx="6" fill="#20241F" stroke="#30362E" stroke-width="1"/><text x="64.0" y="141" text-anchor="middle" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="500" fill="#C8D0C3">后端工程</text><rect x="108" y="124" width="74" height="26" rx="6" fill="#20241F" stroke="#30362E" stroke-width="1"/><text x="145.0" y="141" text-anchor="middle" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="500" fill="#C8D0C3">AI Agent</text>
+  <text x="556" y="40" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#8B949E">开源项目</text>
 
-  <line x1="532" y1="24" x2="532" y2="154" stroke="#272C25" stroke-width="1"/>
+  <text x="556" y="69" font-family="'JetBrains Mono', 'Cascadia Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#F0F6FC">offerline</text>
+  <text x="812" y="69" text-anchor="end" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12" fill="#8B949E">求职与日程台</text>
 
-  <text x="556" y="44" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#9EB985">正在维护的开源仓库</text>
+  <text x="556" y="97" font-family="'JetBrains Mono', 'Cascadia Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#F0F6FC">milkfrog-memory-skill</text>
+  <text x="812" y="97" text-anchor="end" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12" fill="#8B949E">Agent 记忆</text>
 
-  <text x="556" y="74" font-family="'JetBrains Mono', 'Cascadia Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#F5F6F1">offerline</text>
-  <text x="812" y="74" text-anchor="end" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12" fill="#8F988B">求职与日程台</text>
+  <line x1="556" y1="115" x2="812" y2="115" stroke="#262E38" stroke-width="1"/>
 
-  <text x="556" y="102" font-family="'JetBrains Mono', 'Cascadia Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#F5F6F1">milkfrog-memory-skill</text>
-  <text x="812" y="102" text-anchor="end" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12" fill="#8F988B">Agent 记忆</text>
-
-  <line x1="556" y1="120" x2="812" y2="120" stroke="#272C25" stroke-width="1"/>
-
-  <text x="556" y="145" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12" fill="#8F988B">小红书</text>
-  <text x="812" y="145" text-anchor="end" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" fill="#ECCE64">程序员奶蛙</text>
+  <text x="556" y="140" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12" fill="#8B949E">其他方向</text>
+  <text x="812" y="140" text-anchor="end" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" font-weight="600" fill="#F0F6FC">面试项目 / 简历建议</text>
 </svg>
