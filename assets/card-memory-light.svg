@@ -2,12 +2,12 @@
   <g transform="translate(6,0)">
     <rect x="0.5" y="0.5" width="413" height="203" rx="16" fill="#FFFFFF" stroke="#DCE2E9" stroke-width="1"/>
     <text x="24" y="36" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="-0.2" fill="#14181F">milkfrog-memory-skill</text>
-    <rect x="234" y="20" width="76" height="21" rx="6" fill="#FAF2D8"/>
-    <text x="272" y="34" text-anchor="middle" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" fill="#8C680B">Agent Skill</text>
+    <rect x="234" y="20" width="80" height="21" rx="6" fill="#FAF2D8"/>
+    <text x="274" y="34" text-anchor="middle" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="11" font-weight="600" fill="#8C680B">Antigravity</text>
     <g transform="translate(374.00,22.00) scale(0.66667)" fill="none" stroke="#6B7280" stroke-width="1.95" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></g>
 
-    <text x="24" y="61" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#14181F">给 AI Agent 装一套本地双层 Markdown 记忆系统，</text>
-    <text x="24" y="80" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#4B5563">纯 Python 标准库编写，不装任何第三方依赖。</text>
+    <text x="24" y="61" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#14181F">让你的 Antigravity 拥有记忆，跨会话记住偏好与项目进展。</text>
+    <text x="24" y="80" font-family="'Inter', 'HarmonyOS Sans SC', 'PingFang SC', 'Microsoft YaHei', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#4B5563">针对 Antigravity 的本地双层 Markdown 记忆系统，零第三方依赖。</text>
 
     <g transform="translate(24,96)">
   <rect x="0" y="0" width="366" height="86" rx="10" fill="#FAF8F1" stroke="#E9E1CA" stroke-width="1"/>
